@@ -25,5 +25,5 @@ When it comes to object detection, popular detection frameworks are
  `$ python yolo_opencv.py --image dog.jpg --config yolov3.cfg --weights yolov3.weights --classes yolov3.txt`
  *now properly add the paths of files in the input.
   ### sample output :
- ![](output.jpg)
+ ![](output.jpeg)
  
